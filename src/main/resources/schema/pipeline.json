@@ -345,6 +345,7 @@
     "get-step": {
       "properties": {
         "get": {
+          "type":"string",
           "$ref": "#/definitions/identifier",
           "description": "Fetches a version of a resource."
         },
