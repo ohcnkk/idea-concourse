@@ -676,7 +676,6 @@
       "additionalProperties": false,
       "required": [
         "platform",
-        "image_resource",
         "run"
       ]
     },
